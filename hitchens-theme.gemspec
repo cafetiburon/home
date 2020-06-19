@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["cafetiburon.inc@gmail.com"]
 
   spec.summary       = "In nature, there is something called a food chain; it's where the shark eats a little shark."
-  spec.homepage      = "https://github.com/cafetiburon/homepage"
+  spec.home      = "https://github.com/cafetiburon/home"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
