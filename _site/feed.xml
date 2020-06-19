@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Café Tiburón</title>
+    <description>In nature, there is something called a food chain; it's where the shark eats a little shark.</description>
+    <link>http://localhost:4000/homepage/</link>
+    <atom:link href="http://localhost:4000/homepage/feed/index.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 Jun 2020 17:21:18 -0400</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2020 17:21:18 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      
+        <item>
+          
+            <title>The Case of the Missing Tiburón</title>
+          
+          <author>cafetiburon.inc@gmail.com (Café Tiburón)</author>
+          <description>
+            &lt;p&gt;W.I.P.&lt;/p&gt;
+
+          </description>
+          <pubDate>Fri, 19 Jun 2020 00:00:00 -0400</pubDate>
+          <link>http://localhost:4000/homepage/mystery/2020/06/19/the-case-of-the-missing-tiburon.html</link>
+          <guid isPermaLink="true">http://localhost:4000/homepage/mystery/2020/06/19/the-case-of-the-missing-tiburon.html</guid>
+          
+          
+          <category>mystery</category>
+          
+        </item>
+      
+    
+  </channel>
+</rss>
