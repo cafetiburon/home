@@ -3,6 +3,8 @@
 source "https://rubygems.org"
 gemspec
 
+gem "sassc"
+
 # for demo site
 gem "jekyll-paginate"
 
