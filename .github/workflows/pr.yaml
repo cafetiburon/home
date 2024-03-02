@@ -25,5 +25,5 @@ jobs:
         uses: actions/configure-pages@v4
   
       - name: Install dependencies & build site
-        uses: cafetiburon/jekyll-build-pages@main
+        uses: cafetiburon/jekyll-build-pages@v2
      
