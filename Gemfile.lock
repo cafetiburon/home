@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hitchens-theme (0.7.2)
+    hitchens-theme (0.8.0)
       jekyll (~> 3.8)
 
 GEM
