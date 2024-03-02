@@ -45,7 +45,7 @@ jobs:
         uses: actions/configure-pages@v4
   
       - name: Install dependencies & build site
-        uses: actions/jekyll-build-pages@v1.0.12
+        uses: cafetiburon/jekyll-build-pages@v2
      
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
