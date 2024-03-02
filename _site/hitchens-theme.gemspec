@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "hitchens-theme"
-  spec.version       = "0.7.2"
+  spec.version       = "0.8.0"
   spec.authors       = ["Café Tiburón"]
   spec.email         = ["cafetiburon.inc@gmail.com"]
 
